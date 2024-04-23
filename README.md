@@ -37,7 +37,7 @@ GoogleMapが競合に値すると考えています。
 ー本リリース時  
 ・コメント機能  
 ・店舗の検索機能  
-・GoogleMapへの連携機能
+・GoogleMapとの連携機能
 
 **■ 機能の実装方針予定**  
 GoogleMap APIとの連携  
