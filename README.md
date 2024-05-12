@@ -41,3 +41,7 @@ GoogleMapが競合に値すると考えています。
 
 **■ 機能の実装方針予定**  
 GoogleMap APIとの連携  
+
+**■ 技術スタック**  
+Ruby on Rails
+React（余裕があれば）
